@@ -33,7 +33,7 @@ python install -r requirements.txt
 ### Run
 
 ```shell 
-python main.py --train datasets/synonyms/train
+python main.py --train datasets/synonyms/train \
                --dev datasets/synonyms/dev \
                --test datasets/synonyms/test \
                --embedding /path/to/embedding_file \
