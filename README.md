@@ -27,7 +27,7 @@ Download from the above Pre-train word embedding.
 You can install dependencies by:
 
 ```shell
-python install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Run
